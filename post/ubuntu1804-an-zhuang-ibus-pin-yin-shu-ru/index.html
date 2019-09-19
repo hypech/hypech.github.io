@@ -2,7 +2,7 @@
   <head>
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>关于 | Gridea</title>
+<title>ubuntu18.04安装ibus拼音输入 | Gridea</title>
 <meta name="description" content="温故而知新" />
 <link rel="shortcut icon" href="http://hypech.com/favicon.ico?v=1568882655408">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
@@ -73,11 +73,11 @@
         <div class="post-detail">
           <article class="post">
             <h2 class="post-title">
-              关于
+              ubuntu18.04安装ibus拼音输入
             </h2>
             <div class="post-info">
               <span>
-                2019-01-25
+                2019-09-19
               </span>
               <span>
                 1 min read
@@ -87,7 +87,33 @@
             
             <div class="post-content-wrapper">
               <div class="post-content">
-                <p>这是关于的页面，可以在这里向世界介绍你！</p>
+                <p>安装iBus框架<br>
+运行命令sudo apt-get install ibus ibus-clutter ibus-gtk ibus-gtk3 ibus-qt4<br>
+启动iBus框架</p>
+<!--more-->
+<p>im-config -s ibus<br>
+im-switch -s ibus（官方文档上讲的用这个，但是实际，im-switch 不存在，用上面那个就好）<br>
+安装ibus拼音输入引擎<br>
+运行命令sudo apt-get install ibus-pinyin<br>
+启用ibus-pinyin<br>
+命令行输入ibus-setup<br>
+ibus输入法安装<br>
+在中文语言包安装完成后，就需要安装ibus输入法了，需要在Terminal中输入：<br>
+sudo apt-get install ibus ibus-clutter ibus-gtk ibus-gtk3 ibus-qt4<br>
+1<br>
+来安装ibus框架。用<br>
+im-config -s ibus<br>
+1<br>
+切换到ibus框架。再安装拼音引擎：<br>
+sudo apt-get install ibus-pinyin<br>
+1<br>
+再调出ibus Preference来添加该拼音输入法：<br>
+sudo ibus-setup<br>
+1<br>
+在弹出对话框中 （点击add搜索chinese,点击选择pinyin,若找不到。尝试先<br>
+重启！重启！重启！<br>
+一下，再进去设置，就有了）<br>
+在系统设置的区域与语言中添加iBus的智能拼音输入法如下图</p>
 
               </div>
               <div class="toc-container">
@@ -97,6 +123,15 @@
           </article>
         </div>
 
+        
+          <div class="next-post">
+            <div class="next">下一篇</div>
+            <a href="http://hypech.com/post/ubuntu-common-commands">
+              <h3 class="post-title">
+                Ubuntu Common Commands
+              </h3>
+            </a>
+          </div>
         
 
         

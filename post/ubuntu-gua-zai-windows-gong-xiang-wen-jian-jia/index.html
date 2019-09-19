@@ -2,7 +2,7 @@
   <head>
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>关于 | Gridea</title>
+<title>ubuntu挂载Windows共享文件夹 | Gridea</title>
 <meta name="description" content="温故而知新" />
 <link rel="shortcut icon" href="http://hypech.com/favicon.ico?v=1568882655408">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
@@ -73,11 +73,11 @@
         <div class="post-detail">
           <article class="post">
             <h2 class="post-title">
-              关于
+              ubuntu挂载Windows共享文件夹
             </h2>
             <div class="post-info">
               <span>
-                2019-01-25
+                2019-09-19
               </span>
               <span>
                 1 min read
@@ -87,7 +87,11 @@
             
             <div class="post-content-wrapper">
               <div class="post-content">
-                <p>这是关于的页面，可以在这里向世界介绍你！</p>
+                <p>mount -t cifs -o username='youbuntu',password='youbuntu' //192.168.001.105/wysync  /mnt/vBox<br>
+2.通过修改fstab文件，支持开机自动挂载<br>
+修改/etc/fstab文件，文件最后加入：<br>
+//192.168.1.100/workspace   /mnt/share cifs  auto,username='echo',password='123456'  0 0<br>
+chmod +x ./examples/mnist/bb.sh</p>
 
               </div>
               <div class="toc-container">
@@ -97,6 +101,15 @@
           </article>
         </div>
 
+        
+          <div class="next-post">
+            <div class="next">下一篇</div>
+            <a href="http://hypech.com/post/hide-folders-in-this-computer">
+              <h3 class="post-title">
+                Hide folders in this computer
+              </h3>
+            </a>
+          </div>
         
 
         
