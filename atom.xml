@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://hypech.com</id>
-    <title>Gridea</title>
-    <updated>2019-09-19T08:50:23.309Z</updated>
+    <title>seeingvoice</title>
+    <updated>2019-09-19T08:52:55.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://hypech.com"/>
     <link rel="self" href="http://hypech.com/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>我看故我听</subtitle>
     <logo>http://hypech.com/images/avatar.png</logo>
     <icon>http://hypech.com/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, seeingvoice</rights>
     <entry>
         <title type="html"><![CDATA[设置火狐关闭最后一个标签页时关闭窗口]]></title>
         <id>http://hypech.com/post/she-zhi-huo-hu-guan-bi-zui-hou-yi-ge-biao-qian-ye-shi-guan-bi-chuang-kou</id>
