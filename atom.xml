@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/yaminren/yaminren.github.io.git</id>
+    <id>http://hypech.com</id>
     <title>Gridea</title>
-    <updated>2019-09-19T08:26:38.064Z</updated>
+    <updated>2019-09-19T08:28:28.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/yaminren/yaminren.github.io.git"/>
-    <link rel="self" href="https://github.com/yaminren/yaminren.github.io.git/atom.xml"/>
+    <link rel="alternate" href="http://hypech.com"/>
+    <link rel="self" href="http://hypech.com/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://github.com/yaminren/yaminren.github.io.git/images/avatar.png</logo>
-    <icon>https://github.com/yaminren/yaminren.github.io.git/favicon.ico</icon>
+    <logo>http://hypech.com/images/avatar.png</logo>
+    <icon>http://hypech.com/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[test]]></title>
-        <id>https://github.com/yaminren/yaminren.github.io.git/post/test</id>
-        <link href="https://github.com/yaminren/yaminren.github.io.git/post/test">
+        <id>http://hypech.com/post/test</id>
+        <link href="http://hypech.com/post/test">
         </link>
         <updated>2019-09-19T08:23:34.000Z</updated>
         <content type="html"><![CDATA[<p>ttttt</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/yaminren/yaminren.github.io.git/post/hello-gridea</id>
-        <link href="https://github.com/yaminren/yaminren.github.io.git/post/hello-gridea">
+        <id>http://hypech.com/post/hello-gridea</id>
+        <link href="http://hypech.com/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
