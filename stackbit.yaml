@@ -176,7 +176,7 @@ models:
         name: bodyClass
   service:
     type: page
-    label: Service
+    label: Android
     layout: service
     fields:
       - type: string
