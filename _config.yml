@@ -26,6 +26,8 @@ seo:
 collections:
   services:
     output: true
+  hyperions:
+    output: true
   team:
     output: true
 

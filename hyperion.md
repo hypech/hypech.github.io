@@ -1,9 +1,9 @@
 ---
-title: android
-subtitle: 'Android'
-description: 'Android Programming'
-layout: services
-intro_image: "images/android.jpg"
+title: Hyperion
+subtitle: 'Hyperion'
+description: 'Hyperion Series'
+layout: hyperion
+intro_image: "images/hyperion.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---

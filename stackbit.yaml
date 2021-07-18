@@ -96,6 +96,23 @@ models:
               - type: string
                 name: permalink
       - type: object
+        name: collections
+        fields:
+          - type: object
+            name: hyperions
+            fields:
+              - type: boolean
+                name: output
+              - type: string
+                name: permalink
+          - type: object
+            name: team
+            fields:
+              - type: boolean
+                name: output
+              - type: string
+                name: permalink
+      - type: object
         name: sass
         label: Sass
         hidden: true
@@ -174,10 +191,10 @@ models:
         name: date
       - type: string
         name: bodyClass
-  android:
+  hyperion:
     type: page
     label: Android
-    layout: service
+    layout: hyperion
     fields:
       - type: string
         name: title
@@ -185,6 +202,19 @@ models:
         name: date
       - type: string
         name: bodyClass
+  hyperion:
+    type: page
+    label: Android
+    layout: hyperion
+    fields:
+      - type: string
+        name: title
+      - type: date
+        name: date
+      - type: boolean
+        name: featured
+      - type: number
+        name: weight
   service:
     type: page
     label: Android
@@ -202,6 +232,26 @@ models:
     type: page
     label: Services
     layout: services
+    fields:
+      - type: string
+        name: title
+        required: true
+      - type: image
+        name: intro_image
+        label: Intro Image
+        description: Image displayed at in the pages intro section
+      - type: boolean
+        name: intro_image_absolute
+        label: Intro Image Position
+        description: Should the image overflow or be contained
+      - type: boolean
+        name: intro_image_hide_on_mobile
+        label: Hide Intro Image On Mobile?
+        description: Hide the intro image on mobile screen sizes
+  hyperions:
+    type: page
+    label: Hyperions
+    layout: hyperions
     fields:
       - type: string
         name: title
