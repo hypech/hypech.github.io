@@ -1,12 +1,12 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "Android"
+    url: "/android/"
     weight: 2
-  - name: "Team"
-    url: "/team/"
+  - name: "Hyperion"
+    url: "/hyperio/"
     weight: 3
-  - name: "About"
-    url: "/about/"
+  - name: "Kaldi"
+    url: "/kaldi/"
     weight: 4
   - name: "Contact"
     url: "/contact/"
