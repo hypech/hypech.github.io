@@ -1,50 +1,11 @@
 ---
-title: "Business Sales"
+title: "Code by hand. It sharpens proficiency"
 date: 2018-11-28T15:15:26+10:00
 featured: true
 weight: 3
 layout: service
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
-
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
-
-## Geniti facinus praeruptam atris ab manus in
-
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
-
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
-
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
-
-## Vidit si probetne vertitur
-
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
-
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
-
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+In modern society, chat replaces meeting, AI looks better than training,  time flies, we copy/paste. While, coding-by-hand still remains the most effective methods to learn how to program. After you key in every line of the code, you will catch the meaning. Typing in the computer requires further caution, precision, and intent behind every line of code.  
+Our cases are provided through github for downloading. But we don’t suggest you just download it and run. A better practice should be read the book, code-by-hand, and compare the code with what we provided. If hitting a rock, a case handy will be helpful. Compare the case in the book with what you did, you will know how to move around the rock easily. 
+Learn by yourself, a case-by-case book is a must. Following the steps in each case, key in the code, then spend hours to debug and run it. At beginning you will find grammar problem, reserved word problem. Anything only through typing in to computer by your hand could we notice it. Soon, the problems only come from Android itself. By then, you could start Android App job-hunting or your own exploration to the new world.

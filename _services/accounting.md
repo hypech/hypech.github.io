@@ -1,82 +1,18 @@
 ---
-title: "AI Hearing Test"
+title: "Learning by doing"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 1
 layout: service
 ---
 
-Phone, headphone, 3 minutes. We know our hearing ability.
+Learn Android App developing from scratch, and practise in a real environment. Throughout this case study book, you will learn the fundamental Android concepts as well as the practical skills. 
+You will read short and concise description, solve problems,  create projects, and explore simple but complete cases, step by step. Going through 22 cases in this book, you will grow from an Android App novice to  an expert. 
+Hands-on App Development in Android Studio 4.2 is suitable for beginners who have never written a line of code. No matter you are a student or a job hunter, you will find this case-study approach is extremely helpful for Android learning. 
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives 
-
-Financial accounting and financial reporting are often used as synonyms.
-
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
-
-## Relevance
-
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance. 
-
-> The ingredients of relevance are the predictive value and confirmatory value. 
-
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-Cash Inflow | Outflow | Opening Balance
---- | --- | ---
-*Monday* | `Tuesday` | **Wednesday**
-1 | 2 | 3
-
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-* Cash inflow: $20
-* Cash outflow:$7
-* Opening balance: $5
-* Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement. 
-
-- **fixed assets**
-    - property
-    - building
-    - equipment (such as factory machinery)
-- **intangible assets**
-    - copyrights
-    - trademarks
-    - patents
-        - pending
-        - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Learning by doing is not invented by us, but the American philosopher John Dewey. Such learning method puts a heavy emphasis on student engagement. This approach upended the traditional notion that learning happens through lectures and rote memorization. Dewey became famous by arguing that we learn best when we deeply engage with the material. It might be arguable in learning math, history, and geography. But totally true for learning programming.
+With every new Android subject, the sooner you start playing with the code, the faster you will learn the concepts. Even if you blaze through an entire chapter of reading and a topic like ListView seems straightforward – so a monkey could do it – you’ll still be scratching your head when tasked to implement the code. You’ll think, “wait, what was that one piece of syntax again?” As the saying goes, you need to “use it or lose it”, because despite the evolution of technology, this ole’ proverb holds true when learning to code.
+Actually, few people will doubt the concept. The real question is: what I’m going to do? 
+The answer is case study. Harvard adopted case method in their business school and soon became #1 in the world. Following the workable cases, re-do it is just the best way to learn a new language like Android. You could practise with these cases. If succeed, put the new knowledge in brain and move on to next case. If not, compare the case you are reading and what you did and get what you are missing. You will grow fast with that. 

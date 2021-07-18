@@ -1,53 +1,11 @@
 ---
-title: "Mergers"
+title: "Ask for help. Multiple channels."
 date: 2018-11-28T15:15:34+10:00
 featured: true
 weight: 4
 layout: service
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
-
-## Ne verba patulosque numen vix libet
-
-Agitabitur signa lympha; **non lacunae** mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
-
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
-
-Locus evicit __loquuntur Tyrrhena omnes__, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
-
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+As awesome as it would be to become the next Bill Gates on your own, the reality is that people learn faster with mentors and peer feedback. What may seem like an immovable bug or topic could be quickly alleviated by a fresh pair of eyes or a new interpretation of the subject. Whether it’s online or in-person, ignore the trolls and don’t be afraid to ask for help, because every programmer has been in your shoes before. Besides, most developers love to code, and if there’s one thing that passionate individuals enjoy, it’s to share their knowledge with others.
+Google,  stackoverlfow and github, all are gold mines for online programming assistance. We are deeply involved in these programmer community and provide assistance to those known and unknown. Don’t just laugh at those jokes about github, enjoy them. 
+See SUPPORT at the end of this chapter. We are there for you.
