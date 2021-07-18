@@ -12,7 +12,7 @@ intro_image_hide_on_mobile: false
 
 <B>If you are not satisfied with the book format you bought, please email us for a full-color PDF version for free. </B>
 
-##Hyperion Architecture & Installation
+## Hyperion Architecture & Installation
 
 We will show you how to install a complete Hyperion System in your own personal computer, either a Mac or a Windows PC. We will cover OS, Database, Virtual Box, and Hyperion. After installation, we will be able to carry a Hyperion server anywhere for any legal purpose. Good news is: all the software we are using is free for learning purpose.
 ![Hyperion](/images/hyperionkaldi/hyperion1.jpg)
@@ -25,7 +25,7 @@ So, open the book, install them, and enjoy Hyperion!
 ---- Free email support
 
 
-##FDMEE Basics
+## FDMEE Basics
 
 The first part constructs the FDMEE environment (HFM, Planning). The second part walks through two routine FDMEE works. One is for importing CSV file, another is migrating the data between two Planning applications. CSV example gives you a full life cycle of FDMEE job. Migrating example is treated as challenge in many consulting firms.
 ![Hyperion](/images/hyperionkaldi/hyperion2.jpg)
@@ -33,7 +33,7 @@ The first part constructs the FDMEE environment (HFM, Planning). The second part
 Going through all these concepts and examples, we will learn: FDMEE concepts, FDMEE structure, FDMEE environment, FDMEE concerns, and more important, FDMEE thinking.
 
 
-##FDMEE Design
+## FDMEE Design
 Three Oracle Hyperion FDMEE Real Projects, Business Consideration and Compromise, Full Life Cycle.
 ![Hyperion](/images/hyperionkaldi/hyperion3.jpg)
 
