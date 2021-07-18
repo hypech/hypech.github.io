@@ -24,6 +24,6 @@ Learn Programming is suitable for beginners who have never written a line
 of code. No matter you are a student or a job hunter, you will find this casestudy
 approach is extremely helpful for Android learning.
 
-1. <a href="https://play.google.com/store/books/details/Leo_Reny_Hands_on_App_Development_in_Android_Studi?id=9g8zEAAAQBAJ" target="_blank">Preview</a>
+1. <a href="https://play.google.com/store/books/details/Leo_Reny_Hands_on_App_Development_in_Android_Studi?id=9g8zEAAAQBAJ" target="_blank">Preview with Google Books</a>
 
-3. <a href="https://www.amazon.com/Hands-Development-Android-Studio-Step/dp/B096TL8VMP" target="_blank">Amazon</a>
+3. <a href="https://www.amazon.com/Hands-Development-Android-Studio-Step/dp/B096TL8VMP" target="_blank">Buy a Kindle version or hard copy from Amazon</a>
