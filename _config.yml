@@ -7,9 +7,9 @@ google_analytics_id: "179125452"
 homepage:
   show_call_box: true
 logo:
-  mobile: "images/logo/aiHearing.png"
-  desktop: "images/logo/aiHearing.png"
-  desktop_height: "200px"
+  mobile: "images/logo/hypech300_190.png"
+  desktop: "images/logo/hypech150.png"
+  desktop_height: "100px"
 footer:
   copyright_text: 'HYPEch by <a class="zerostatic" href="https://hypech.com">hypech.com</a>'
 
