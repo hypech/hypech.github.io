@@ -15,6 +15,8 @@ One way to get some practice is, at the end of every module, think of features t
 It doesn’t have to be too fancy. The most important thing is that you write code, run into errors, google how to debug it, and gain more understanding. Practice solidifies knowledge, so practice 1 completed project/case is better than 10 watched tutorials.
 For project ideas, follow this book’s cases. These 22 projects are key elements of almost every actual commercial app, like Login/Register, Room Database, ListView, Chat Room, just name a few. After you could redo these cases, you will be qualified for an entry level Android App developer. 
 The 22 cases are open-sourced, so you can use them directly in your daily work with minimum modification, which help you go on track fast. Each case is designed by senior mentors and developers to help bridge the learning gap between theory and real-world code.
+![Android](/images/android/android (1).png)
+
 2. Solution not always working
 It’s easy to find a solution for a specific problem. But talking about the workable solution, most of developers will shake the head. The main reason is that Android has developed too fast and too loosen. There are 12 big versions and hundreds small ones. Considering the customization from all the handsets manufacturers and third party ROM providers, this number could grow to hundreds. The fragment of Android system is always a hot topic. 
 The consequence? This version’s solution may not work in another. 
