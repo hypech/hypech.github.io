@@ -8,9 +8,11 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Hands-on App Development in Android Studio 4.2
+# Android Case Study
 
 ## 22 Complete Android Cases with Step-by-Step Instruction to Grow from Novice to Android Expert
+
+<B>If you are not satisfied with the book format you bought, please email us for a full-color PDF version for free. </B>
 
 Learn Android App developing from scratch, and practise in an intuitive
 environment. Throughout this case study book, you will learn the fundamental
