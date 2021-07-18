@@ -41,10 +41,7 @@ Following HWG’s acquisition of XM System, discussions took place to assess pos
 
 Since both HWG and XM were using Hyperion EPM products for Consolidation, Reporting, Budgeting and Planning, a gap analysis was performed to assess the usage of each platform with the goal of alignment across the organizations.
 
-##FDMEE Projects
-
 HWG wants to maintain one single source of truth of the actuals across the organization. For that integrating XM at the source will limit additional cross-systems data input and therefore prevent potential data integrity issues while ultimately bringing significant time-savings to the user.
-![Hyperion](/images/hyperionkaldi/hyperion4.jpg)
 
 Furthermore, limiting the usage of one single application rather than two parallel versions of FDM and HFM would bring cost efficiencies.
 
@@ -53,15 +50,17 @@ XM is running the business at another continent. The communication to them is no
 Another challenge is that no original design document could be found. We need figure out the business logic with the help of HWG staff.
 
 
-1. <a href="https://play.google.com/store/books/details/Leo_Reny_Hands_on_App_Development_in_Android_Studi?id=9g8zEAAAQBAJ" target="_blank">Preview with Google Books</a>
-2. <a href="https://www.amazon.com/Hands-Development-Android-Studio-Step/dp/B096TL8VMP" target="_blank">Buy a Kindle version or hard copy from Amazon</a>
-3. <a href="/files/C5.csv2Planning.txt" download>C5.csv2Planning.txt</a>
-4. <a href="/files/C5.csv2Planning.zip" download>C5.csv2Planning.zip</a>
-5. <a href="/files/HWG-HFM-Application-elements.zip" download>HWG-HFM-Application-elements.zip</a>
-6. <a href="/files/IFRS.ads" download>IFRS.ads</a>
-7. <a href="/files/IFRS_HFM.zip" download>IFRS_HFM.zip</a>
-8. <a href="/files/IFRS8.ads" download>IFRS8.ads</a>
-9. <a href="/files/IFRS9.ads" download>IFRS9.ads</a>
-a. <a href="/files/vision_Planning.zip" download>vision_Planning.zip</a>
-b. <a href="/files/VISION8.ads" download>VISION8.ads</a>
-c. <a href="/files/VISION9.ads" download>VISION9.ads</a>
+1. <a href="https://play.google.com/store/search?q=hyperion%20leo%20reny&c=books" target="_blank">Preview with Google Books</a>
+2. <a href="https://www.amazon.com/dp/B08L223NR3" target="_blank">Buy a Kindle version or hard copy from Amazon</a>
+3. <a href="https://www.amazon.com/dp/B08KH8MPBB" target="_blank">Buy a Kindle version or hard copy from Amazon</a>
+4. <a href="https://www.amazon.com/dp/B08KPH3DVG" target="_blank">Buy a Kindle version or hard copy from Amazon</a>
+5. <a href="/files/C5.csv2Planning.txt" download>C5.csv2Planning.txt</a>
+6. <a href="/files/C5.csv2Planning.zip" download>C5.csv2Planning.zip</a>
+7. <a href="/files/HWG-HFM-Application-elements.zip" download>HWG-HFM-Application-elements.zip</a>
+8. <a href="/files/IFRS.ads" download>IFRS.ads</a>
+9. <a href="/files/IFRS_HFM.zip" download>IFRS_HFM.zip</a>
+a. <a href="/files/IFRS8.ads" download>IFRS8.ads</a>
+b. <a href="/files/IFRS9.ads" download>IFRS9.ads</a>
+c. <a href="/files/vision_Planning.zip" download>vision_Planning.zip</a>
+d. <a href="/files/VISION8.ads" download>VISION8.ads</a>
+e. <a href="/files/VISION9.ads" download>VISION9.ads</a>
