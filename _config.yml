@@ -9,7 +9,7 @@ homepage:
 logo:
   mobile: "images/logo/aiHearing.png"
   desktop: "images/logo/aiHearing.png"
-  desktop_height: "54px"
+  desktop_height: "200px"
 footer:
   copyright_text: 'HYPEch by <a class="zerostatic" href="https://hypech.com">hypech.com</a>'
 
