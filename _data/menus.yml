@@ -3,7 +3,7 @@ main:
     url: "/android/"
     weight: 2
   - name: "Hyperion"
-    url: "/hyperio/"
+    url: "/hyperion/"
     weight: 3
   - name: "Kaldi"
     url: "/kaldi/"
