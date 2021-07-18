@@ -1,24 +1,24 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'AI Hearing'
+title: 'HYPEch, Learning by Doing'
 
-google_analytics_id: ""
+google_analytics_id: "179125452"
 homepage:
   show_call_box: true
 logo:
   mobile: "images/logo/aiHearing.png"
   desktop: "images/logo/aiHearing.png"
-  desktop_height: "36px"
+  desktop_height: "54px"
 footer:
-  copyright_text: 'AI Hearing by <a class="zerostatic" href="https://hypech.com">hypech.com</a>'
+  copyright_text: 'HYPEch by <a class="zerostatic" href="https://hypech.com">hypech.com</a>'
 
 seo:
-  meta_og_title: "AI Hearing Test"
+  meta_og_title: "HYPEch Publisher"
   meta_og_type: "website"
-  meta_og_url: "https://aihearing.github.io"
-  meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "3 minutes hearing test."
+  meta_og_url: "https://hypech.com"
+  meta_og_image: "https://hypech.com/images/logo/aiHearing.png"
+  meta_og_description: "Leaning by Doing Case Study."
   meta_twitter_card: "summary"
   meta_twitter_site: "@aihearing"
   meta_twitter_creator: "@aihearing"
