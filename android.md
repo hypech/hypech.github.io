@@ -3,8 +3,8 @@ title: android
 subtitle: 'Android'
 description: 'Android Programming'
 layout: services
-intro_image: "images/android.jpg"
-intro_image_absolute: true
+intro_image: "images/android/android.jpg"
+intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 
