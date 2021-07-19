@@ -8,8 +8,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Android Case Study
-
 <B>If you are not satisfied with the book format you bought, please email us for a full-color PDF version for free. </B>
 
 ## Hyperion Architecture & Installation
