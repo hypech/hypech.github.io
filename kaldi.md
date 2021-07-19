@@ -3,7 +3,7 @@ title: Kaldi
 subtitle: 'Kaldi'
 description: 'Hands-on Kaldi'
 layout: services
-intro_image: "images/kaldi.jpg"
+intro_image: "images/hyperionkaldi/kaldi.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
@@ -14,6 +14,7 @@ intro_image_hide_on_mobile: false
 <B>If you are not satisfied with the book format you bought, please email us for a full-color PDF version for free. </B>
 
 With the increasing demand for In-car Systems, Health Care, Military, Telephone, and our daily life, Automatic Speech Recognition (ASR) related job market is booming right now. 
+![Hyperion](/images/hyperionkaldi/kaldi.jpg)
 
 As the leading open source software in ASR field, Kaldi might be the best start point. 
 
