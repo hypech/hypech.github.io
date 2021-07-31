@@ -26,4 +26,8 @@ approach is extremely helpful for Android learning.
 
 1. <a href="https://play.google.com/store/books/details/Leo_Reny_Hands_on_App_Development_in_Android_Studi?id=9g8zEAAAQBAJ" target="_blank">Preview with Google Books</a>
 
-3. <a href="https://www.amazon.com/Hands-Development-Android-Studio-Step/dp/B096TL8VMP" target="_blank">Buy a Kindle version or hard copy from Amazon</a>
+2. <a href="https://www.amazon.com/Hands-Development-Android-Studio-Step/dp/B096TL8VMP" target="_blank">Buy a Kindle version or hard copy from Amazon</a>
+
+3. <a href="https://github.com/hypech?tab=repositories" target="_blank">Download Source Code</a>
+
+4. <a href="https://www.youtube.com/channel/UCtkxCO5vVSvWMN-HMs0JZyg" target="_blank">Video Course</a>
