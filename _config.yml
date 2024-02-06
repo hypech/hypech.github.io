@@ -20,8 +20,8 @@ seo:
   meta_og_image: "https://hypech.com/images/logo/aiHearing.png"
   meta_og_description: "Leaning by Doing Case Study."
   meta_twitter_card: "summary"
-  meta_twitter_site: "@aihearing"
-  meta_twitter_creator: "@aihearing"
+  meta_twitter_site: "@aiXpertLab"
+  meta_twitter_creator: "@aiXpertLab"
 
 collections:
   services:
